@@ -76,3 +76,9 @@ class Reaccion
 ## En caso de usar IA-Generativa para consulta de información
 
 - En un archivo llamado informacion.md; explicando a detalle el uso de cada prompt
+
+
+## Actividades realizadas (Carlos Mejia - Luis Leon)
+- Adicion del archivo de configuracion de la base de datos en SQlite
+- Creacion de tablas con clases Usuario, Publicacion y Reaccion
+- Insercion de datos a traves de csv reader
