@@ -1,6 +1,9 @@
 
 # Mini Proyecto: FutRedX – La Red de Fútbol de la Premier League
-
+## Actividades realizadas (Carlos Mejia - Luis Leon)
+- Adicion del archivo de configuracion de la base de datos en SQlite
+- Creacion de tablas con clases Usuario, Publicacion y Reaccion
+- Insercion de datos a traves de csv reader
 ## Contexto
 
 Un grupo de estudiantes apasionados por el fútbol ha creado *FutRedX*, una red social ficticia dedicada exclusivamente a compartir opiniones, noticias y momentos sobre la **Premier League inglesa**. Los usuarios pueden publicar frases, comentar eventos deportivos, y reaccionar a las publicaciones de otros.
@@ -78,7 +81,3 @@ class Reaccion
 - En un archivo llamado informacion.md; explicando a detalle el uso de cada prompt
 
 
-## Actividades realizadas (Carlos Mejia - Luis Leon)
-- Adicion del archivo de configuracion de la base de datos en SQlite
-- Creacion de tablas con clases Usuario, Publicacion y Reaccion
-- Insercion de datos a traves de csv reader
